@@ -1,10 +1,13 @@
 public class MinhClass {
     public static void main (String [] args) {
+        String primeiroNome = "Fernando";
+        String segundoNome = "Fachin";
 
-        int ano = 2021;
+        String nomeCompleto = nomeCompleto(primeiroNome, segundoNome);
+        System.out.println(nomeCompleto);
+    }
 
-        ano = 2022;
-
-        final String BR = "Brasil";
+    public static String nomeCompleto (String primeiroNome, String segundoNome) {
+        return "Resultado do metodo" + " " + primeiroNome.concat(" ").concat(segundoNome);
     }
 }
