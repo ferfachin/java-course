@@ -7,15 +7,15 @@ Bem-vindo ao meu repositório de acompanhamento da minha jornada de aprendizado 
 Nesta formação, estou aprendendo Java desde o básico até o desenvolvimento de projetos mais complexos com o uso do Spring Framework. A estrutura do curso está dividida da seguinte maneira:
 
 ## Módulos Iniciais
-- [x]Introdução ao Java e Ambiente de Desenvolvimento
-- [ ]Fundamentos da Linguagem Java
-- [ ]Programação Orientada a Objetos (POO) em Java
+1. - [x] Introdução ao Java e Ambiente de Desenvolvimento
+2. - [ ] Fundamentos da Linguagem Java
+3. - [ ] Programação Orientada a Objetos (POO) em Java
 
 ## Módulos Avançados
-- [ ]Explorando Recursos Avançados do Java
-- [ ]Desenvolvimento de Projetos Práticos com Java
-- [ ]Introdução ao Spring Framework
-- [ ]Construindo Aplicações Robustas com Spring
+1. - [ ] Explorando Recursos Avançados do Java
+2. - [ ] Desenvolvimento de Projetos Práticos com Java
+3. - [ ] Introdução ao Spring Framework
+4. - [ ] Construindo Aplicações Robustas com Spring
 
 ## Atividades
 Durante o curso, estarei envolvido em várias atividades emocionantes para consolidar meu aprendizado:
